@@ -11,9 +11,26 @@ header {
     text-align: center;
 }
 
-p {
+.dlink {
+    background-color: red;
+    padding: 0.5em;
+    margin-top:3.0em solid white;
     color: aquamarine;
     font-size: 16px;
     text-align: center;
     text-decoration-line: underline;
+}
+/*
+video{
+    text-align:center;
+    padding: 10%
+    margin: 0.5em;
+
+}*/
+
+h2{ 
+    font-family:verdana;
+    font-weight: 300;
+    font-size:42px;
+    color: white:
 }
